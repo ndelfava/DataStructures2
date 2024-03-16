@@ -59,7 +59,7 @@ public class GenericsKbAVLApp {
                     case 1:
                         System.out.println("Enter file name: ");
                         String filename = keyboard.nextLine();
-                        ActionsBST.loadKbBST(filename);
+                        ActionsAVL.loadKbAVL(filename);
                         break;
                     case 2:
                         System.out.println("Enter the term: ");
@@ -69,7 +69,7 @@ public class GenericsKbAVLApp {
                         System.out.println("Enter the confidence score: ");
                         double confidence = parseDouble(keyboard.nextLine());
                         try {
-                            ActionsBST.addStatement(addTerm, addState, confidence);
+                            ActionsAVL.addStatement(addTerm, addState, confidence);
                         }
                         catch (NullPointerException e){
                             System.out.println("Please try loading in a file before trying to add things.");
@@ -79,7 +79,7 @@ public class GenericsKbAVLApp {
                         System.out.println("Enter the term to search: ");
                         String term = keyboard.nextLine();
                         try {
-                            ActionsBST.searchByTerm(term);
+                            ActionsAVL.searchByTerm(term);
                         }
                         catch (NullPointerException e){
                             System.out.println("Please try loading in a file before trying to add things.");
@@ -92,7 +92,7 @@ public class GenericsKbAVLApp {
                         System.out.println("Enter the statement to search for: ");
                         String state = keyboard.nextLine().toLowerCase();
                         try {
-                            ActionsBST.termAndStatement(term4, state);
+                            ActionsAVL.termAndStatement(term4, state);
                         }
                         catch (NullPointerException e){
                             System.out.println("Please try loading in a file before trying to add things.");
