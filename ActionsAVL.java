@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ActionsAVL {
 
     /**
-     *  Represents a binary tree to store the knowledge base records.
+     *  Represents an AVL tree to store the knowledge base records.
      */
     static AVLTree records;
 
@@ -59,58 +59,34 @@ public class ActionsAVL {
     }
 
     /**
-     * Adds a new statement to the knowledge base, or updates an existing statement
-     * if the new statement has higher confidence.
-     *
-     * @param term       The term associated with the statement.
-     * @param statement  The statement to be added or updated.
-     * @param confidence The confidence score associated with the statement.
-     */
-    public static void addStatement(String term, String statement, double confidence) {
-        if (records.search(records.root, term) != null && confidence >= records.search(records.root, term).confidence) {
-            records.search(records.root, term).statement = statement;
-            records.search(records.root, term).confidence = confidence;
-        }
-        else if (records.search(records.root, term) != null && confidence < records.search(records.root, term).confidence){
-            System.out.println("Term with higher confidence already in database.");
-        }
-        else {
-            records.insert(term, statement, confidence);
-            System.out.println("Added.");
-        }
-    }
-
-    /**
      * Searches the knowledge base for a given term and prints the associated statement
      * and confidence level, if found.
      *
-     * @param t The term to search for.
+     * @param \t The term to search for.
      */
-    public static void searchByTerm(String t) {
-        AVLNode n = records.search(records.root, t);
-        if (n == null) {
-            System.out.println("Nothing found.");
-        } else {
-            System.out.println("Statement found: " + n.statement + " (Confidence level: " + n.confidence + ")");
-        }
-    }
+    public static void queryAVL(String filename) throws FileNotFoundException {
+        File text = new File(filename);
+        Scanner scnr = new Scanner(text);
 
-    /**
-     * Searches the knowledge base for a given term and checks if the associated statement
-     * matches the provided statement. If found, it prints a confirmation message and the confidence.
-     *
-     * @param term      The term to search for.
-     * @param statement The statement to match against the term.
-     */
-    public static void termAndStatement(String term, String statement) {
-        AVLNode n = records.search(records.root, term);
-        if (n == null) {
-            System.out.println("Nothing found.");
-        } else {
-            if (n.statement.toLowerCase().equals(statement)) {
-                System.out.println("The statement was found and has a confidence score of " + n.confidence + ".");
+        ArrayList<String> lines = new ArrayList<>();
+        int numLines = 1;
+
+        while (scnr.hasNextLine()) {
+            lines.add(scnr.nextLine());
+            numLines++;
+        }
+
+        for (int i = 0; i < lines.size(); i++) {
+            String term = lines.get(i);
+            if (records.search(records.root, term) != null) {
+                System.out.println(term + ": " + records.search(records.root, term).statement + " (" + records.search(records.root, term).confidence + ")");
+            }
+            else {
+                System.out.println("Term not found: " + term);
             }
         }
     }
+
+
 
 }
