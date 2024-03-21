@@ -1,4 +1,6 @@
 public class AVLTree {
+    public static int insertCounter=0;
+    public static int searchCounter=0;
     public AVLNode root;
 
     public AVLTree() {
@@ -9,24 +11,34 @@ public class AVLTree {
         root = insert(term,statement, confidence, root);
     }
 
+
+
     private AVLNode insert(String term, String statement, double confidence, AVLNode t) {
         if (t == null) {
             t = new AVLNode(term, statement, confidence);
         } else if (term.compareTo(t.term) < 0) {
+            insertCounter++;
             t.left = insert(term, statement, confidence, t.left);
             if (height(t.left) - height(t.right) == 2) {
+                insertCounter++;
                 if (term.compareTo(t.left.term) < 0) {
+                    insertCounter++;
                     t = rotateWithLeftChild(t);
                 } else {
+                    insertCounter++;
                     t = doubleWithLeftChild(t);
                 }
             }
         } else if (term.compareTo(t.term) > 0) {
+            insertCounter++;
             t.right = insert(term, statement, confidence, t.right);
             if (height(t.right) - height(t.left) == 2) {
+                insertCounter++;
                 if (term.compareTo(t.right.term) > 0) {
+                    insertCounter++;
                     t = rotateWithRightChild(t);
                 } else {
+                    insertCounter++;
                     t = doubleWithRightChild(t);
                 }
             }
@@ -72,13 +84,18 @@ public class AVLTree {
             return null;
         }
         if (term.compareTo(t.term) < 0) {
+            searchCounter++;
             return search(t.left, term);
         } else if (term.compareTo(t.term) > 0) {
+            searchCounter++;
             return search(t.right, term);
         } else {
+            searchCounter++;
             return t;
         }
+
     }
+
 
 
 }

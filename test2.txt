@@ -1,0 +1,5 @@
+mountain laurel	A mountain laurel is a bush	1.0
+land line	A land line is a line	1.0
+mustard leaf	Mustard leaves have epidermises.	1.0
+sea anchor	A sea anchor is a constraint	1.0
+apoptotic chromatin	Apoptotic chromatin favours aggregation and fluorescence quenching of DNA dyes.	0.7543678283691406

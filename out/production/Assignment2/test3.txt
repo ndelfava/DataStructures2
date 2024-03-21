@@ -1,0 +1,10 @@
+ideology	Ideology is part of organizations.	1.0
+toll booth	Toll booths are booths.	1.0
+addax	Addaxs have (part) cytoplasm.	1.0
+patenting	Patentings are registerings.	1.0
+peridontal disease	Peridontal disease is an infection of the tissue around the teeth.	0.8188772201538086
+animal breeding	Animal breeding are animal husbandry.	1.0
+zooxanthellae specie	Zooxanthellae species are members of the phylum Dinoflagellata.	0.8026968836784363
+mail box	Mail boxs are located in street corners.	1.0
+depletion region	Depletion regions present energy barriers.	1.0
+golden tamarin	Golden tamarins eat sweet fruit.	1.0

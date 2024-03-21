@@ -1,0 +1,100 @@
+gene product	Gene products possess one or more biochemical, physiological or structural functions.	0.7556174397468567
+diseased artery	Diseased arteries have many such capillaries, some of which grow into the plaque and feed it.	0.7681574821472168
+neural cell	Neural cells are rich in a sub-class of cell surface complex carbohydrates called gangliosides.	0.8138240575790405
+vent pipe	Vent pipes are located in roofs.	1.0
+primary color	Primary colors are the three colors that make up all other colors.	0.7175039052963257
+consumption of alcohol	Consumption of alcohol interferes with the liver's release of glycogen.	0.7181749939918518
+several talent musician	Several talent musicians help sound.	1.0
+chalkstone	A chalkstone is salt	1.0
+nuclear migration	Nuclear migration is essential for normal development in both higher and lower eukaryotes.	0.7015185356140137
+cranial ganglion	Cranial ganglia are much larger and have connections both centrally and projecting to the periphery.	0.7770349979400635
+panoramic view	A panoramic view is a view	1.0
+bird nest	A bird nest is a nest	1.0
+kraft	A kraft is paper	1.0
+several experiment	Several experiments reveal actions.	1.0
+seat belt	Seat belts work with air bags to protect occupants.	0.7035476565361023
+hairlike structure	Hairlike structures are flagella of new rat sperm.	0.8442023992538452
+environmental conservation	Environmental conservation occurs over time.	1.0
+adult moth	Adult moths have mouths.	1.0
+cassette deck	Cassette decks are tape recorders.	1.0
+refractory material	Refractory materials are used to line the inside of ovens used to maintain very high temperatures.	0.7020465135574341
+vinegar	Vinegar has many benefits.	1.0
+rain check	Rain checks are stubs.	1.0
+Planaria	Planaria are freshwater predators and scavengers.	0.704521894454956
+pelycosaur	Pelycosaurs are a paraphyletic group of six primitive families of synapsids.	0.720126211643219
+higher level	Higher levels are high levels.	1.0
+eucaryote	Eucaryotes are cells that have their DNA in a nucleus inside the cell.	0.8473657369613647
+aquatic genet	Aquatic genets feed mainly on fish.	0.7042902708053589
+olive ridley	An olive ridley is a ridley	1.0
+family man	A family man is a husband	1.0
+stridulation	Stridulation refers to sounds produced by rubbing body parts together.	0.735674262046814
+chronic stress	Chronic stress alters the immune response to influenza virus vaccines in older adults.	0.7492325305938721
+superfecta	A superfecta is a wager	1.0
+transposon	Transposons can also play an important role in eukaryote genomes.	0.7385521531105042
+female mallard duck	Female mallard ducks have light color.	1.0
+primary cough headache	Primary cough headaches occur at ages.	1.0
+external field	External fields produce torque.	1.0
+huntsman	A huntsman is a skilled worker	1.0
+zinc chloride	Zinc chloride is inorganic compounds.	1.0
+inorganic cell	Inorganic cells are known to produce much more energy than organic cells.	0.7426976561546326
+apron reef	Apron reefs form on shallow undersea slopes, away from land masses.	0.7059638500213623
+direct repeat	Direct repeats are selective response elements for thyroid hormone, retinoic acid and vit.	0.7865144610404968
+sexual urge	A sexual urge is feeling	1.0
+smock	A smock is a coverall	1.0
+spam	Spam is canned food.	1.0
+sweetmeat	A sweetmeat is confection	1.0
+intramural fibroid	Intramural fibroids can cause pain and premature labor.	0.7081962823867798
+forked lightning	Forked lightning is lightning	1.0
+hairstyle	Hairstyles are style.	1.0
+loanword	Loanword is a word	1.0
+wheat bran	Wheat bran is the thin, fiber-rich outer layer of the wheat kernel.	0.8281428813934326
+pizzazz	A pizzazz is an activity	1.0
+mall	Malls are used for shops.	1.0
+public facility	Public facilities are public properties.	1.0
+field corn	Field corn is a field crop	1.0
+baby armadillo	Baby armadillos have leathery shells.	1.0
+scab	Scabs are the body's way of bandaging itself.	0.7644520998001099
+cyanocobalamin	A cyanocobalamin is a B vitamin	1.0
+dysphasia	Dysphasias are disability.	1.0
+severe coastal erosion	Severe coastal erosion occurs over time.	1.0
+centric diatom	Centric diatoms undergo meiosis to form eggs and sperm.	0.7818249464035034
+individual spindle	Individual spindle fibres bind to a kinetochore structure on each side of the centromere.	0.7026534676551819
+cardiac arrest	Cardiac arrest is a condition in which the heart suddenly stops pumping.	0.8072675466537476
+seat cushion	A seat cushion is a cushion	1.0
+documentary	Documentaries are television programs.	1.0
+homograft	A homograft is a transplant	1.0
+launched	Launcheds are albums.	1.0
+home repair	Home repairs are repairings.	1.0
+weaponry	Weaponry isa instrumentality.	1.0
+body length	Body length varies from cms.	1.0
+brazilian rosewood	Brazilian rosewoods are rosewoods.	1.0
+garbage collection	Garbage collections are pickups.	1.0
+inorganic cell	Inorganic cells are known to produce much more energy than organic cells.	0.7426976561546326
+vasopressin	Vasopressin is a hormone	1.0
+finger nail	Finger nails grow from the root of the nail just behind the nail under the skin.	0.7881700992584229
+morality	Morality isa quality.	1.0
+scientific community	Scientific communities undertake tasks.	1.0
+shady spot	Shady spots are located in bridges.	1.0
+vernal pool	Vernal pools fill with water.	1.0
+tailless scorpion	Tailless scorpions live in habitats.	1.0
+mutated cell	Mutated cells can lose the ability to form the pigment and form white colonies.	0.7220783233642578
+telemarketing	Telemarketing is a marketing	1.0
+graphical representation	Graphical representations are located in desktops.	1.0
+sports league	Sports leagues are leagues.	1.0
+unusual phenomenon	Unusual phenomena affect presence.	1.0
+alluvial deposit	An alluvial deposit is a sediment	1.0
+organon	An organon is a system	1.0
+graver	Gravers are hand tools.	1.0
+tight shoe	Tight shoes cause blisters.	1.0
+boxcar	A boxcar is a freight car	1.0
+isotonic exercise	Isotonic exercises are exercises.	1.0
+personal life	Personal life has affects.	1.0
+deep diver	Deep divers need dense bones.	1.0
+ferment food	Ferment food enhances digestion.	1.0
+taxis	A taxis is a response	1.0
+business person	Business people are workers.	1.0
+gospel singing	A gospel singing is folk music	1.0
+reverse migration	Reverse migration takes places.	1.0
+venous system	Venous system is storage area for blood during circulation.	0.8304991722106934
+determinate plant	Determinate plants produce many short branches ending in flower clusters with a very brief harvest.	0.7072395086288452
+thermoreceptor	A thermoreceptor is a sense organ	1.0

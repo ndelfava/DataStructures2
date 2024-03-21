@@ -1,0 +1,100 @@
+excessive force	Excessive forces cause damage.	1.0
+contract kill	Contract kill is human activities.	1.0
+inhalational anthrax	Inhalational anthrax is anthrax.	1.0
+gastrointestinal secretion	Gastrointestinal secretion is a significant and important matter in animal life.	0.7785163521766663
+migratory animal	Migratory animals are animals.	1.0
+doe	Does are placentals.	1.0
+sodium aluminate	Sodium aluminate is used in fabric printing processes.	0.7444604635238647
+objective lens	An objective lens is a lens	1.0
+rhyolite	Rhyolites melt at lower temperatures and are lighter in weight and color than basalts.	0.7088083624839783
+canape	A canape is a starter	1.0
+protoplasm	A protoplasm is a substance	1.0
+reciprocal transplant experiment	Reciprocal transplant experiments provide evidence.	1.0
+newborn mammal	Newborn mammals continue to grow and develop once they are out of the womb.	0.7052339315414429
+colored compound	Colored compounds absorb visible light.	0.7424883246421814
+chill	A chill is cold	1.0
+intestinal parasitism	Intestinal parasitism exists in all ages of dogs with the greatest frequency in puppies.	0.7303423285484314
+batholith	A batholith is an igneous rock	1.0
+India	India has (part) Indian capital.	1.0
+sweet smell	Sweet smell attracts insects.	1.0
+hydrochlorothiazide	Hydrochlorothiazide is slightly soluble in water.	0.8257253170013428
+special bond	Special bonds involve obligation.	1.0
+male panther chameleon	Male panther chameleons establish territory.	1.0
+nest burrow	Nest burrows provide shelter.	1.0
+trapeziid crab	Trapeziid crabs are obligate coral symbionts that inhabit tropical reefs worldwide.	0.8182986974716187
+many lead energy company	Many lead energy companies develop methods.	1.0
+nitrogen fertilization	Nitrogen fertilization stimulates seed germination.	1.0
+mediterranean meal	Mediterranean meals include plenty.	1.0
+osmosis	Osmosis is the diffusion of water across a semi-permeable membrane.	0.8236949443817139
+legionary	A legionary is a soldier	1.0
+electronics	Electronics has limits.	1.0
+elderly man	Elderly men consume amounts.	1.0
+chrome vanadium	Chrome vanadium is formed by combining chemicals in different proportions.	0.7875906825065613
+reinsurance	Reinsurance is insurance	1.0
+motivity	Motivity isa quality.	1.0
+fanconi syndrome	Fanconi syndrome is an impairment in proximal tubular function of the kidney.	0.7616528272628784
+sophomore	A sophomore is an underclassman	1.0
+intraluminal water	Intraluminal water increases expression of plasmid DNA in rat lung.	0.7064331769943237
+tetrachoric correlation	A tetrachoric correlation is a correlation	1.0
+distension	Distension is expansion	1.0
+proponent	A proponent is a person	1.0
+dialectic	Dialectics are rationales.	1.0
+ragweed	Ragweeds have (part) nuclei.	1.0
+retinal tissue	Retinal tissue is stimulated by light but also responds to mechanical disturbances.	0.775382399559021
+vaginal thrush	Vaginal thrush is a vaginal infection caused by a fungus or yeast.	0.8072507381439209
+involuntary respiration	Involuntary respiration is controlled by respiratory centers within the medulla oblongata and pons.	0.7936714291572571
+pilot experiment	A pilot experiment is an experiment	1.0
+sidereal midnight	Sidereal midnight occurs when the vernal equinox crosses the meridian.	0.7741880416870117
+testimonial	Testimonial is evidence	1.0
+beefalo	Beefalos are mammals.	1.0
+translocation	Translocations are the transfer of a piece of one chromosome to a nonhomologous chromosome.	0.8199895024299622
+gingko	Gingko contains numerous antioxidant flavonoids which counteract free radical activity.	0.7663683295249939
+routine urine examination	Routine urine examinations confirm diagnoses.	1.0
+synaesthesia	Synaesthesia is sensation	1.0
+empty house	Empty houses have front doors.	1.0
+zip file	Zip files are computer files.	1.0
+international agreement	International agreement is pacts.	1.0
+appetizer	Appetizer is courses.	1.0
+excellence	Excellence is features.	1.0
+intercession	Intercession is participation	1.0
+crucial nutrient	Crucial nutrients play roles.	1.0
+flyer	Flyers are located in conferences.	1.0
+claystone	A claystone is a stone	1.0
+knife fish	Knife fish have fins.	1.0
+illegality	Illegality is quality	1.0
+Penicillin	Penicillin has NO effect on viruses, it works on bacteria.	0.7293847799301147
+allosteric effect	Allosteric effects are important in the regulation of enzymatic reactions.	0.7942842245101929
+dentofacial deformity	Dentofacial deformities can affect a person's ability to eat, speak and breathe properly.	0.7819748520851135
+selective force	Selective forces influence behavior.	1.0
+express mail	Express mail is mail	1.0
+salinometer	Salinometers determine salinity from the electrical conductivity produced by the dissolved salts.	0.702433168888092
+energy radiation	Energy radiation breaks molecular bonds.	1.0
+polycarpic plant	Polycarpic plants form flowers many times during their lifetime.	0.8238485455513
+marc	A marc is brandy	1.0
+academician	Academicians are scholars.	1.0
+vernal pool	Vernal pools fill with water.	1.0
+pika	Pikas have (part) pedal extremities.	1.0
+white water	White water is foam.	1.0
+manx cat	Manx cats are domestic cats.	1.0
+excellency	An excellency is a feature	1.0
+downbeat	A downbeat is a rhythm	1.0
+steady air pressure	Steady air pressure indicates weather.	1.0
+chord	A chord is a note	1.0
+arboreal frog	Arboreal frogs have joints.	1.0
+nutria damage	Nutria damage is related to burrowing and feeding.	0.7062946557998657
+willow oak	Willow oak is oak	1.0
+natural evolution	Natural evolution is about replication and propagation of genes.	0.7474377155303955
+eating apple	An eating apple is an apple	1.0
+jackrabbit	Jackrabbits have eyes.	1.0
+papacy	A papacy is government	1.0
+ladybug larva	Ladybug larvae go through stages.	1.0
+equine nutrition	Equine nutrition is the feeding of horses , ponies , mules , donkeys , and other equines .	0.8163869976997375
+graphic art	Graphic art is art	1.0
+cay	A cay is a coral reef	1.0
+system architecture	System architecture is architecture.	1.0
+clincher	A clincher is a tool	1.0
+snapdragon	Snapdragons have leaves.	1.0
+stasis	Stasis is pathology	1.0
+bonding	Bonding are personal relations.	1.0
+lobster	Lobsters have mandibles.	1.0
+ovariectomy	An ovariectomy is ablation	1.0

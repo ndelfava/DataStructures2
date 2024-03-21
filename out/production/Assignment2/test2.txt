@@ -1,0 +1,5 @@
+childhood hero	Childhood heros wear capes.	1.0
+epipubic bone	Epipubic bones extend forwards from the pelvis.	0.7939907312393188
+topical corticoid	Topical corticoids decrease de novo collagen synthesis in the human skin.	0.8014528155326843
+clew	A clew is evidence	1.0
+bullet train	A bullet train is a passenger train	1.0

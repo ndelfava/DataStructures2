@@ -1,0 +1,50 @@
+native azalea	Native azaleas lose their leaves in winter.	0.7041023969650269
+bedtime	Bedtime isa knowledge.	1.0
+sore	Sore is infection.	1.0
+airfare	Airfares are fares.	1.0
+italian language	Italian language is language.	1.0
+cut of beef	Cuts of beef is cuts.	1.0
+brown ink	Brown ink is produced from the soot of rapeseed oil.	0.7389554381370544
+average annual temperature	Average annual temperature ranges from cs.	1.0
+bird feeding	Bird feeding is the activity of feeding wild birds, often by means of a bird feeder .	0.7624457478523254
+prostate disease	Prostate disease is the a predisposer in the elderly.	0.762938916683197
+permanent hardness	Permanent hardness is determined by the amount of calcium and magnesium ions present in the water.	0.7479521036148071
+firepower	A firepower is strength	1.0
+side arm	A side arm is a firearm	1.0
+dichromat	A dichromat is a person	1.0
+condescension	Condescension is arrogance	1.0
+glia cell	Glia cells keep the neurons safe and healthy.	0.7450249791145325
+primary chemotherapy	Primary chemotherapy is used with the intent to prolong life and relieve symptoms.	0.734050452709198
+candlestick	Candlesticks are located in tables.	1.0
+domestic pig	Domestic pigs are descended from wild boars.	1.0
+norethindrone	A norethindrone is a progestogen	1.0
+sugar syrup	Sugar syrup is sweetener	1.0
+blood	Blood has hemoglobin, which includes iron.	0.7866736054420471
+carillonneur	A carillonneur is a musician	1.0
+pressure	Pressure is produced by nuclear reaction.	1.0
+confluence	Confluences are blends.	1.0
+skin lotion	Skin lotion is used to soften skin texture and improve skin health.	0.7289894223213196
+heteronym	A heteronym is a word	1.0
+objector	An objector is a person	1.0
+orchard grass	Orchard grass is grass	1.0
+email server	Email servers are capable of forward email.	1.0
+countermeasure	Countermeasures are measures.	1.0
+bitch	Bitchs are canines.	1.0
+staysail	A staysail is a sail	1.0
+legless lizard	A legless lizard is a lizard	1.0
+erotic passion	Erotic passion is passion for flesh.	0.7204353213310242
+power steering	A power steering is a mechanism	1.0
+xanthogranulomatous pyelonephritis	Xanthogranulomatous pyelonephritis is a type of chronic pyelonephritis.	0.7043793797492981
+atomic energy	Atomic energy is the energy released by the splitting of an atom as in a nuclear reactor.	0.7642615437507629
+common mutagen	Common mutagens are radiation and organic chemicals such as some pesticides and smoke.	0.7486962676048279
+squirrel glider	Squirrel gliders have long, sharp, diprotodont lower incisors.	0.8184005618095398
+zoonotic disease	Zoonotic diseases can spread from animals to humans.	0.7577040195465088
+rib	Ribs are remarks.	1.0
+ecological interaction	Ecological interaction influences intensity.	1.0
+flash point	A flash point is a criticality	1.0
+antifreeze	Antifreeze isa liquid.	1.0
+terminology	Terminology has (part) syllables.	1.0
+intellect	Intellects are people.	1.0
+drink glass	Drink glass has tendencies.	1.0
+peanut butter diet	Peanut butter diets help weight.	1.0
+mantle muscle	Mantle muscles perform functions.	1.0

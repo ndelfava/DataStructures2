@@ -1,0 +1,10 @@
+electric ray	An electric ray is a ray	1.0
+acidified soil	Acidified soil is stripped of necessary nutrients that help plants survive cold temperatures.	0.741899311542511
+magnesium oxide	Magnesium oxide is one form in which the element magnesium occurs naturally in the earth.	0.8271788954734802
+grade school	A grade school is a school	1.0
+refiner	Refiners are skilled workers.	1.0
+basswood	A basswood is wood	1.0
+bearberry	A bearberry is a holly	1.0
+dicotyledonous plant	Dicotyledonous plants are a class of plants that have two cotyledons.	0.8355943560600281
+mutt	A mutt is a dog	1.0
+graduate	Graduates employ in major occupations.	1.0

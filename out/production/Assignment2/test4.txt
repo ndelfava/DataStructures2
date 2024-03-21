@@ -1,0 +1,50 @@
+apoptotic chromatin	Apoptotic chromatin favours aggregation and fluorescence quenching of DNA dyes.	0.7543678283691406
+juvenile bullfrog	Juvenile bullfrogs have behaviour.	1.0
+vasodilator	Vasodilators work by making the arteries throughout the body open up.	0.8328852653503418
+swimmer crab	Swimmer crabs begin life.	1.0
+limp stalk	Limp stalks absorb enough water.	1.0
+gemma	Gemmae germinate directly into new gametophytes.	0.7420936226844788
+social event	Social events are physical events.	1.0
+silicate sand	Silicate sand is the yellow sand that is found in low to mid latitudes.	0.7742376327514648
+esophagitis	Esophagitis produces heartburn and pain in the area below the breastbone or in the upper stomach.	0.785775899887085
+collie	Collies are dogs.	1.0
+pressing	Pressing is forging.	1.0
+primary metabolite	Primary metabolites are essential to the plant i.e. proteins, sugars, amino acids, etc.	0.7832421660423279
+foundering	Founderings are sinking.	1.0
+scandal	Scandal is albums.	1.0
+antarctic penguin	Antarctic penguins swim, walk, and toboggan from feeding grounds to rookeries.	0.797747015953064
+papillary tumor	Papillary tumors develop in cells that produce thyroid hormones containing iodine.	0.8537499308586121
+manufactured home	A manufactured home is a housing	1.0
+calculus	A calculus is a stone	1.0
+blackboard	Blackboards are boards.	1.0
+polyurethane foam	Polyurethane foam is a polymer	1.0
+wolf pup	Wolf pups live to adulthood.	1.0
+nutritional density	Nutritional density is the number of persons per cultivated land.	0.7457602620124817
+performance test	Performance tests yield results.	1.0
+soft tissue	Soft tissue surrounds airways.	1.0
+oil pipeline	An oil pipeline is a line	1.0
+wood fern	Wood ferns are ferns.	1.0
+bunch grass	Bunch grass is grass	1.0
+borna disease	Borna disease is a sporadic fatal encephalitis which occurs in horses and sheep in Central Europe.	0.7066144347190857
+wound	Wounds is located in arms.	1.0
+property tax	A property tax is a tax	1.0
+animal hair	Animal hairs are classified into three basic types.	0.7166110873222351
+grain boundary	Grain boundaries are the surfaces between individual grains in a metal.	0.7842191457748413
+versatility	Versatility is skillfulness	1.0
+gaseous metal	Gaseous metal conducts electricity.	1.0
+pre eclampsia	Pre eclampsia can affect the development when the placenta gets severely scarred.	0.7803621292114258
+furry animal	Furry animals produce allergens that can cause allergic rhinitis and asthma.	0.7939568758010864
+traditional knowledge	Traditional knowledge is content	1.0
+householder	A householder is an owner	1.0
+federal office	A federal office is a government department	1.0
+Dysphasia	Dysphasia is a language disorder brought on by a stroke or head injury.	0.7362585067749023
+supernatural being	A supernatural being is a belief	1.0
+mangrove tree crab	Mangrove tree crabs inhabit areas.	1.0
+mechanical advantage	Mechanical advantage is a ratio	1.0
+schizophrenia	Schizophrenia is mental illnesses.	1.0
+border	Borders are used for accents.	1.0
+robust orange	Robust oranges are a mix of anthocyanins, carotenes and xanthophylls.	0.8125779032707214
+vocal polyp	Vocal polyps are benign fleshy growths on the vocal folds that require surgical removal.	0.7855851054191589
+hangar	A hangar is a structure	1.0
+grizzle	A grizzle is a wig	1.0
+ocean fish	Ocean fish are located in sea.	1.0

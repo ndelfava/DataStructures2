@@ -1,4 +1,5 @@
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Scanner;
 
 public class GenericsKbAVLApp {
@@ -13,7 +14,9 @@ public class GenericsKbAVLApp {
          * @param args Command-line arguments (not used in this program)
          * @throws FileNotFoundException If the specified knowledge base file is not found.
          */
-        public static void main(String[] args) throws FileNotFoundException {
+        public static void main(String[] args) throws IOException {
+
+            ActionsAVL.randomGen();
 
             final Scanner keyboard = new Scanner(System.in);
 
@@ -28,25 +31,26 @@ public class GenericsKbAVLApp {
 
 
 
+
+
+
             while (true) {
-                try {
-                    Integer.parseInt(action);
-                    break;
+                while (true) {
+                    try {
+                        Integer.parseInt(action);
+                        break;
+                    }
+                    catch (NumberFormatException e) {
+                        System.out.println("Please enter a valid number.");
+                        System.out.println("Choose an action from the menu:\n" +
+                                "1. Load a knowledge base from a file\n" +
+                                "2. Load in a query base from a file\n" +
+                                "3. Quit\n" +
+                                "Enter your choice: ");
+                        action = keyboard.next();
+                        keyboard.nextLine();
+                    }
                 }
-                catch (NumberFormatException e) {
-                    System.out.println("Please enter a valid number.");
-                    System.out.println("Choose an action from the menu:\n" +
-                            "1. Load a knowledge base from a file\n" +
-                            "2. Load in a query base from a file\n" +
-                            "3. Quit\n" +
-                            "Enter your choice: ");
-                    action = keyboard.next();
-                    keyboard.nextLine();
-                }
-            }
-
-
-            while (Integer.parseInt(action) != 3) {
 
 
                 switch (Integer.parseInt(action)) {
@@ -59,9 +63,11 @@ public class GenericsKbAVLApp {
                         System.out.println("Enter the file name: ");
                         String f = keyboard.nextLine();
                         ActionsAVL.queryAVL(f);
-
                         break;
                     case 3:
+                        System.out.println(AVLTree.insertCounter + " insertion operations performed.");
+                        System.out.println(AVLTree.searchCounter + " search operations performed.");
+                        
                         System.exit(0);
                         break;
                     default:

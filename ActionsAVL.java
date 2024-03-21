@@ -1,7 +1,9 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.io.FileWriter;
 
 public class ActionsAVL {
 
@@ -86,6 +88,34 @@ public class ActionsAVL {
             }
         }
     }
+
+    public static void randomGen() throws IOException {
+        int[] n = new int[] {1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000};
+        File text = new File("GenericsKB.txt");
+        Scanner keyboard = new Scanner(text);
+
+        ArrayList<String> lines = new ArrayList<>();
+        int numLines = 1;
+        while (keyboard.hasNextLine()) {
+            lines.add(keyboard.nextLine());
+            numLines++;
+        }
+
+        for (int i=0; i < 10; i++) {
+            FileWriter myWriter = new FileWriter("test" + (i+1) + ".txt");
+            for (int j=0; j < n[i]; j++) {
+                int random = (int) (Math.random() * lines.size());
+                myWriter.write(lines.get(random) + "\n");
+            }
+            myWriter.close();
+        }
+
+
+
+
+    }
+
+
 
 
 
