@@ -1,50 +1,50 @@
-native azalea	Native azaleas lose their leaves in winter.	0.7041023969650269
-bedtime	Bedtime isa knowledge.	1.0
-sore	Sore is infection.	1.0
-airfare	Airfares are fares.	1.0
-italian language	Italian language is language.	1.0
-cut of beef	Cuts of beef is cuts.	1.0
-brown ink	Brown ink is produced from the soot of rapeseed oil.	0.7389554381370544
-average annual temperature	Average annual temperature ranges from cs.	1.0
-bird feeding	Bird feeding is the activity of feeding wild birds, often by means of a bird feeder .	0.7624457478523254
-prostate disease	Prostate disease is the a predisposer in the elderly.	0.762938916683197
-permanent hardness	Permanent hardness is determined by the amount of calcium and magnesium ions present in the water.	0.7479521036148071
-firepower	A firepower is strength	1.0
-side arm	A side arm is a firearm	1.0
-dichromat	A dichromat is a person	1.0
-condescension	Condescension is arrogance	1.0
-glia cell	Glia cells keep the neurons safe and healthy.	0.7450249791145325
-primary chemotherapy	Primary chemotherapy is used with the intent to prolong life and relieve symptoms.	0.734050452709198
-candlestick	Candlesticks are located in tables.	1.0
-domestic pig	Domestic pigs are descended from wild boars.	1.0
-norethindrone	A norethindrone is a progestogen	1.0
-sugar syrup	Sugar syrup is sweetener	1.0
-blood	Blood has hemoglobin, which includes iron.	0.7866736054420471
-carillonneur	A carillonneur is a musician	1.0
-pressure	Pressure is produced by nuclear reaction.	1.0
-confluence	Confluences are blends.	1.0
-skin lotion	Skin lotion is used to soften skin texture and improve skin health.	0.7289894223213196
-heteronym	A heteronym is a word	1.0
-objector	An objector is a person	1.0
-orchard grass	Orchard grass is grass	1.0
-email server	Email servers are capable of forward email.	1.0
-countermeasure	Countermeasures are measures.	1.0
-bitch	Bitchs are canines.	1.0
-staysail	A staysail is a sail	1.0
-legless lizard	A legless lizard is a lizard	1.0
-erotic passion	Erotic passion is passion for flesh.	0.7204353213310242
-power steering	A power steering is a mechanism	1.0
-xanthogranulomatous pyelonephritis	Xanthogranulomatous pyelonephritis is a type of chronic pyelonephritis.	0.7043793797492981
-atomic energy	Atomic energy is the energy released by the splitting of an atom as in a nuclear reactor.	0.7642615437507629
-common mutagen	Common mutagens are radiation and organic chemicals such as some pesticides and smoke.	0.7486962676048279
-squirrel glider	Squirrel gliders have long, sharp, diprotodont lower incisors.	0.8184005618095398
-zoonotic disease	Zoonotic diseases can spread from animals to humans.	0.7577040195465088
-rib	Ribs are remarks.	1.0
-ecological interaction	Ecological interaction influences intensity.	1.0
-flash point	A flash point is a criticality	1.0
-antifreeze	Antifreeze isa liquid.	1.0
-terminology	Terminology has (part) syllables.	1.0
-intellect	Intellects are people.	1.0
-drink glass	Drink glass has tendencies.	1.0
-peanut butter diet	Peanut butter diets help weight.	1.0
-mantle muscle	Mantle muscles perform functions.	1.0
+new federal regulation	New federal regulations require use.	1.0
+retinal dysplasia	Retinal dysplasia is a type of retinal malformation.	0.8144340515136719
+field staff	Field staff use methods.	1.0
+french restaurant	French restaurants are located in wine.	1.0
+enterprise zone	An enterprise zone is a city district	1.0
+lymphatic system	A lymphatic system is a system	1.0
+female midge	Female midges bite to get blood so that they can lay eggs.	0.7560558915138245
+greek letter	Greek letters are located in fraternity houses.	1.0
+rock garden	A rock garden is a garden	1.0
+shooting range	A shooting range is a practice range	1.0
+dominatrix	A dominatrix is a woman	1.0
+juvenile turtle	Juvenile turtles have black carapaces.	1.0
+submucosa	A submucosa is connective tissue	1.0
+common guava	Common guavas have fruit.	1.0
+cognition	Cognition is the process of knowing.	0.7513450980186462
+effector caspase	Effector caspases are the enzymes responsible for disassembling the cells.	0.8437619805335999
+star tortoise	Star tortoises have backgrounds.	1.0
+ocular motility	Ocular motility means loss of vision efficiency in either eye, due to double or binocular vision.	0.8027663230895996
+membrane receptor	Membrane receptors are extrinsic or associated with the surface of the bilayer.	0.841442346572876
+physical entity	A physical entity is an entity	1.0
+oestrone	Oestrone is embryolethal for preimplantation embryos in some species.	0.7376158833503723
+congenital rubella	Congenital rubella is a viral illness.	0.7433786988258362
+rich merchant	Rich merchants have wives.	1.0
+sound choice	Sound choices help life.	1.0
+Malta	Malta isa thing.	1.0
+swizzle stick	A swizzle stick is a stick	1.0
+acrocentric chromosome	Acrocentric chromosomes have the centromere located very near to one end.	0.7954819202423096
+reeve	Reeves are ruff.	1.0
+hematologic cancer	Hematologic cancers are cancers of the blood or bone marrow, including leukemia and lymphoma.	0.8492123484611511
+male guinea pig	Male guinea pigs reach maturity.	1.0
+habitat depletion	Habitat depletion is the destruction or reduction of a habitat.	0.7151938080787659
+simile	Similes are figures of speech.	1.0
+viable neutrophil	Viable neutrophils release mitochondrial DNA to form neutrophil extracellular traps.	0.769853949546814
+ape	Apes have teeth.	1.0
+age pigment	Age pigment is found in the organ of Corti even in animals deaf from birth.	0.7859699130058289
+excess protein	Excess protein is used as energy and can be stored as body fat.	0.7291322350502014
+home	Homes are used for sleep.	1.0
+alveolar macrophage	Alveolar macrophages inhibit retroviral-mediated gene transfer to airway epithelia.	0.8003028631210327
+procaryote	Procaryotes have structurally different ribosomal subunits than eucaryotes.	0.7940612435340881
+military intelligence	Military intelligence is intelligence.	1.0
+little owl	A little owl is an owl	1.0
+mango peel	Mango peels contain pigment.	1.0
+sociopath	Sociopaths are neurotics.	1.0
+spongy root	Spongy roots absorb water.	1.0
+bactrian camel	Bactrian camels are mammals.	1.0
+touch	Touch is contact.	1.0
+romanticism	Romanticism is idealism.	1.0
+flow	Flow causes runs.	1.0
+ski wax	Ski wax is wax	1.0
+experience trainer	Experience trainers lead students.	1.0

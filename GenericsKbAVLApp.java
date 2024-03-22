@@ -65,9 +65,19 @@ public class GenericsKbAVLApp {
                         ActionsAVL.queryAVL(f);
                         break;
                     case 3:
-                        System.out.println(AVLTree.insertCounter + " insertion operations performed.");
-                        System.out.println(AVLTree.searchCounter + " search operations performed.");
-                        
+                        System.out.println(AVLTree.maxInsertCounter + " max insertion operations performed.");
+                        System.out.println(AVLTree.minInsertCounter + " min insertion operations performed.");
+                        System.out.println(AVLTree.sumInsert + " sum insertion operations performed.");
+                        System.out.println(AVLTree.maxSearchCounter + " max search operations performed.");
+                        System.out.println(AVLTree.minSearchCounter+ " min search operations performed.");
+                        int sum = 0;
+                        for (int i =0; i<AVLTree.counterList.size(); i++){
+                            sum += AVLTree.counterList.get(i);
+                        }
+                        double average = sum/AVLTree.counterList.size();
+                        System.out.println(average + " average search operations performed.");
+
+
                         System.exit(0);
                         break;
                     default:

@@ -1,1 +1,1 @@
-due east	A due east is a point	1.0
+enzyme production	Enzyme production is governed by a cell's genes.	0.8125889301300049

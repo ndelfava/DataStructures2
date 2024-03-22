@@ -1,5 +1,5 @@
-mountain laurel	A mountain laurel is a bush	1.0
-land line	A land line is a line	1.0
-mustard leaf	Mustard leaves have epidermises.	1.0
-sea anchor	A sea anchor is a constraint	1.0
-apoptotic chromatin	Apoptotic chromatin favours aggregation and fluorescence quenching of DNA dyes.	0.7543678283691406
+tire chain	Tire chain is chain	1.0
+quarantine	A quarantine is separation	1.0
+female canvasback	Female canvasbacks have heads.	1.0
+swallowtail	Swallowtail refers to the posterior extensions on the hind wings of some species.	0.7112086415290833
+eversion	Eversion is the movement of turning the sole of the foot outward, away from the midline.	0.7650748491287231

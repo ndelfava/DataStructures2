@@ -11,6 +11,7 @@ public class ActionsAVL {
      *  Represents an AVL tree to store the knowledge base records.
      */
     static AVLTree records;
+    public static int[] n = new int[] {1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000};
 
     /**
      * Loads or updates the knowledge base from a tab-delimited text file.
@@ -90,7 +91,6 @@ public class ActionsAVL {
     }
 
     public static void randomGen() throws IOException {
-        int[] n = new int[] {1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000};
         File text = new File("GenericsKB.txt");
         Scanner keyboard = new Scanner(text);
 

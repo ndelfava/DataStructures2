@@ -1,50 +1,50 @@
-apoptotic chromatin	Apoptotic chromatin favours aggregation and fluorescence quenching of DNA dyes.	0.7543678283691406
-juvenile bullfrog	Juvenile bullfrogs have behaviour.	1.0
-vasodilator	Vasodilators work by making the arteries throughout the body open up.	0.8328852653503418
-swimmer crab	Swimmer crabs begin life.	1.0
-limp stalk	Limp stalks absorb enough water.	1.0
-gemma	Gemmae germinate directly into new gametophytes.	0.7420936226844788
-social event	Social events are physical events.	1.0
-silicate sand	Silicate sand is the yellow sand that is found in low to mid latitudes.	0.7742376327514648
-esophagitis	Esophagitis produces heartburn and pain in the area below the breastbone or in the upper stomach.	0.785775899887085
-collie	Collies are dogs.	1.0
-pressing	Pressing is forging.	1.0
-primary metabolite	Primary metabolites are essential to the plant i.e. proteins, sugars, amino acids, etc.	0.7832421660423279
-foundering	Founderings are sinking.	1.0
-scandal	Scandal is albums.	1.0
-antarctic penguin	Antarctic penguins swim, walk, and toboggan from feeding grounds to rookeries.	0.797747015953064
-papillary tumor	Papillary tumors develop in cells that produce thyroid hormones containing iodine.	0.8537499308586121
-manufactured home	A manufactured home is a housing	1.0
-calculus	A calculus is a stone	1.0
-blackboard	Blackboards are boards.	1.0
-polyurethane foam	Polyurethane foam is a polymer	1.0
-wolf pup	Wolf pups live to adulthood.	1.0
-nutritional density	Nutritional density is the number of persons per cultivated land.	0.7457602620124817
-performance test	Performance tests yield results.	1.0
-soft tissue	Soft tissue surrounds airways.	1.0
-oil pipeline	An oil pipeline is a line	1.0
-wood fern	Wood ferns are ferns.	1.0
-bunch grass	Bunch grass is grass	1.0
-borna disease	Borna disease is a sporadic fatal encephalitis which occurs in horses and sheep in Central Europe.	0.7066144347190857
+natural predation	Natural predation plays minor roles.	1.0
+auto maker	An auto maker is a manufacturer	1.0
+idol worship	Idol worship is worship	1.0
+precious metal	Precious metal is a valuable	1.0
+waste material	A waste material is a material	1.0
+microscopic organism	Microscopic organisms live in every part of the biosphere .	0.7726303935050964
+different nutrient	Different nutrients affect digestion, the nervous system, thinking, and other body processes.	0.7538117170333862
+nonconservative nutrient	Nonconservative nutrients are nutrients that change in concentration with biological activity.	0.8124591112136841
+current temperature map	Current temperature maps show color.	1.0
+healthy cell	Healthy cells have 'self-antigens' on the surface of their membranes.	0.7818825244903564
+charnel house	A charnel house is a vault	1.0
+demulcent	A demulcent is medicine	1.0
+ell	An ell is a wing	1.0
+scheduler	A scheduler is computer hardware	1.0
+passive immunity	Passive immunity is acquired by receiving antibodies from someone.	0.731285035610199
+sacrococcygeal tumor	Sacrococcygeal tumors can also present as bowel and bladder dysfunction.	0.7113942503929138
+dill plant	Dill plants grow in locations.	1.0
+haemoglobin	Haemoglobin transports oxygen from the lungs to the tissues.	0.8634897470474243
+somatostatin peptide	Somatostatin peptides inhibit basolateral potassium channels in human colonic crypts.	0.7895820140838623
+coal miner	Coal miners are miners.	1.0
+asexual method	Asexual methods include fission.	1.0
+cost accountant	A cost accountant is a controller	1.0
+breast shape	Breast shape is determined by breast volume and surface area of the skin envelope.	0.7221591472625732
+legion	Legion is military units.	1.0
+peripheral muscle	Peripheral muscles occur in antagonistic pairs.	0.7261155247688293
+sneaker	Sneakers are athletic shoes.	1.0
+violet	Violet has fleshy leaves.	1.0
+curry	Curries are indian dishs.	1.0
+guitarist	Guitarists are musicians.	1.0
+early bird	Early birds are risers.	1.0
+nonpolar solvent	Nonpolar solvents dissolve nonpolar solutes.	0.7829110026359558
+ology	An ology is a field	1.0
+tachycardia	Tachycardias are cardiac arrhythmia.	1.0
+madagascan roach	Madagascan roaches are nocturnal, meaning they are most active at night.	0.7627501487731934
+electric force	Electric forces are produced by electric charges either at rest or in motion.	0.7284032106399536
+dark ray	Dark rays form when clouds cast their shadows on the surrounding air.	0.7204928994178772
+premature fruit	Premature fruit has skin.	1.0
+filly	A filly is a female	1.0
+cretin	Cretins have (part) personality.	1.0
+soft water	Soft water is water.	1.0
+stalk	Stalks absorb water.	1.0
+delight	Delight is pleasure.	1.0
+orange juice	Orange juice is a drink	1.0
+patty	Patties are pie.	1.0
+cheese whey	Cheese whey is produced during the separation of casein and whey as the curd for cheese is produced.	0.7176533937454224
+red cedar	Red cedars grow in moist habitats.	0.772685706615448
+state prison	A state prison is a prison	1.0
 wound	Wounds is located in arms.	1.0
-property tax	A property tax is a tax	1.0
-animal hair	Animal hairs are classified into three basic types.	0.7166110873222351
-grain boundary	Grain boundaries are the surfaces between individual grains in a metal.	0.7842191457748413
-versatility	Versatility is skillfulness	1.0
-gaseous metal	Gaseous metal conducts electricity.	1.0
-pre eclampsia	Pre eclampsia can affect the development when the placenta gets severely scarred.	0.7803621292114258
-furry animal	Furry animals produce allergens that can cause allergic rhinitis and asthma.	0.7939568758010864
-traditional knowledge	Traditional knowledge is content	1.0
-householder	A householder is an owner	1.0
-federal office	A federal office is a government department	1.0
-Dysphasia	Dysphasia is a language disorder brought on by a stroke or head injury.	0.7362585067749023
-supernatural being	A supernatural being is a belief	1.0
-mangrove tree crab	Mangrove tree crabs inhabit areas.	1.0
-mechanical advantage	Mechanical advantage is a ratio	1.0
-schizophrenia	Schizophrenia is mental illnesses.	1.0
-border	Borders are used for accents.	1.0
-robust orange	Robust oranges are a mix of anthocyanins, carotenes and xanthophylls.	0.8125779032707214
-vocal polyp	Vocal polyps are benign fleshy growths on the vocal folds that require surgical removal.	0.7855851054191589
-hangar	A hangar is a structure	1.0
-grizzle	A grizzle is a wig	1.0
-ocean fish	Ocean fish are located in sea.	1.0
+defect	A defect is a state	1.0
+motor sport	Motor sports are sports.	1.0

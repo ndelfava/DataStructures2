@@ -1,10 +1,10 @@
-ideology	Ideology is part of organizations.	1.0
-toll booth	Toll booths are booths.	1.0
-addax	Addaxs have (part) cytoplasm.	1.0
-patenting	Patentings are registerings.	1.0
-peridontal disease	Peridontal disease is an infection of the tissue around the teeth.	0.8188772201538086
-animal breeding	Animal breeding are animal husbandry.	1.0
-zooxanthellae specie	Zooxanthellae species are members of the phylum Dinoflagellata.	0.8026968836784363
-mail box	Mail boxs are located in street corners.	1.0
-depletion region	Depletion regions present energy barriers.	1.0
-golden tamarin	Golden tamarins eat sweet fruit.	1.0
+piperine	Piperines are alkaloids.	1.0
+constancy	Constancy is perceptions.	1.0
+confit	A confit is cut of meat	1.0
+symptom	Symptoms include waste.	1.0
+yuan	A yuan is an unit	1.0
+total solar eclipse	Total solar eclipse depends on several factors.	1.0
+idleness	Idleness is inactivity.	1.0
+barbary sheep	Barbary sheep live in arid environments and acquire much of their water from the plants they eat.	0.7373987436294556
+centennial	A centennial is an anniversary	1.0
+grantor	A grantor is a person	1.0

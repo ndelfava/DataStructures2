@@ -1,6 +1,16 @@
+import java.util.ArrayList;
+
 public class AVLTree {
     public static int insertCounter=0;
+    public static int maxInsertCounter=0;
+    public static int minInsertCounter=0;
     public static int searchCounter=0;
+    public static int maxSearchCounter=0;
+    public static int minSearchCounter=0;
+
+    public static int sumSearch = 0;
+    public static int sumInsert = 0;
+    public static ArrayList<Integer> counterList = new ArrayList<>();;
     public AVLNode root;
 
     public AVLTree() {
@@ -8,7 +18,19 @@ public class AVLTree {
     }
 
     public void insert(String term, String statement, double confidence) {
+        insertCounter++;
         root = insert(term,statement, confidence, root);
+    }
+
+    public int getSize() {
+        return getSize(root);
+    }
+
+    private int getSize(AVLNode t) {
+        if (t == null) {
+            return 0;
+        }
+        return 1 + getSize(t.left) + getSize(t.right);
     }
 
 
@@ -20,12 +42,9 @@ public class AVLTree {
             insertCounter++;
             t.left = insert(term, statement, confidence, t.left);
             if (height(t.left) - height(t.right) == 2) {
-                insertCounter++;
                 if (term.compareTo(t.left.term) < 0) {
-                    insertCounter++;
                     t = rotateWithLeftChild(t);
                 } else {
-                    insertCounter++;
                     t = doubleWithLeftChild(t);
                 }
             }
@@ -33,18 +52,20 @@ public class AVLTree {
             insertCounter++;
             t.right = insert(term, statement, confidence, t.right);
             if (height(t.right) - height(t.left) == 2) {
-                insertCounter++;
                 if (term.compareTo(t.right.term) > 0) {
-                    insertCounter++;
                     t = rotateWithRightChild(t);
                 } else {
-                    insertCounter++;
                     t = doubleWithRightChild(t);
                 }
             }
         }
         t.height = Math.max(height(t.left), height(t.right)) + 1;
+        sumInsert += insertCounter;
+        maxInsertCounter = Math.max(insertCounter, maxInsertCounter);
+        minInsertCounter = Math.min(insertCounter, minInsertCounter);
+        insertCounter = 0;
         return t;
+
     }
 
     private int height(AVLNode t) {
@@ -81,16 +102,25 @@ public class AVLTree {
 
     public AVLNode search(AVLNode t, String term) {
         if (t == null) {
+            sumSearch+= searchCounter;
+            maxSearchCounter = Math.max(searchCounter, maxSearchCounter);
+            minSearchCounter = Math.min(searchCounter, minSearchCounter);
+            counterList.add(searchCounter);
+            searchCounter = 0;
             return null;
         }
-        if (term.compareTo(t.term) < 0) {
+        else if (term.compareTo(t.term) < 0) {
             searchCounter++;
             return search(t.left, term);
         } else if (term.compareTo(t.term) > 0) {
             searchCounter++;
             return search(t.right, term);
         } else {
-            searchCounter++;
+            sumSearch += searchCounter;
+            maxSearchCounter = Math.max(searchCounter, maxSearchCounter);
+            minSearchCounter = Math.min(searchCounter, minSearchCounter);
+            counterList.add(searchCounter);
+            searchCounter = 0;
             return t;
         }
 
