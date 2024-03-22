@@ -1,100 +1,100 @@
-orator	An orator is a speaker	1.0
-malpighian corpuscle	A malpighian corpuscle is a capsule	1.0
-cockfight	Cockfights are matchs.	1.0
-cattle farm	A cattle farm is a farm	1.0
-termite s	Termite s are insects that feed mostly on wood.	0.8330804109573364
-muton	A muton is a base	1.0
-woodpecker	Woodpeckers nest in holes.	1.0
-plant physiology	Plant physiology is the study of normal plant function.	0.776164710521698
-fidget	Fidget is agitation.	1.0
-malignant tissue	Malignant tissue is cancer.	0.814132571220398
-muscle mass	Muscle mass is increased only by exercising muscles.	0.7882164716720581
-spike	Spikes are electrical discharge.	1.0
-arsenous acid	Arsenous acid is a colorless solution .	0.8165913224220276
-malleability	Malleability is dispositions.	1.0
-online chat	Online chats are dialogue.	1.0
-federal agent	A federal agent is an official	1.0
-fish scale	Fish scales are scales.	1.0
-hawaiian honeycreeper	Hawaiian honeycreepers are a group of birds with similar body shape and size.	0.7102866768836975
-half volley	A half volley is a return	1.0
-xxx	Xxxs are sex chromosomes.	1.0
-musculus masseter	Musculus masseter moves the lower jawbone upwards and downwards.	0.7336274981498718
-term of office	A term of office is a term	1.0
-flat surface	Flat surfaces are planes.	1.0
-custard	Custard isa sustenance.	1.0
-product certification	Product certifications are certifications.	1.0
-immobilisation	An immobilisation is preservation	1.0
-various cytochrome	Various cytochromes are also hemoproteins.	0.7937023043632507
-deadly illness	Deadly illnesses are caused by bacteria.	1.0
-stout perennial herb	Stout perennial herbs reach height.	1.0
-general surgery	General surgery is surgical treatments.	1.0
-elevate blood sugar	Elevate blood sugar causes potassium excretion.	1.0
-agent	Agents are present in the skin, hair and nails of human and animal hosts.	0.7213317155838013
-udder	An udder is a mamma	1.0
-tact	Tact is consideration	1.0
-sex segregation	Sex segregation is a separatism	1.0
-secession	Secession is art movement	1.0
-passionflower	A passionflower is a vine	1.0
-research project	A research project is research	1.0
-cherub	Cherubs are angels.	1.0
-march	Marchs are months.	1.0
-millipede	Millipedes are worm-like arthropods with cylindrical, shiny bodies.	0.8587931990623474
-bumpkin	A bumpkin is a common man	1.0
-tail fin	Tail fins are decoration.	1.0
-Vermin	Vermin are insects and arachnids.	0.8225756883621216
-appropriate agency	Appropriate agencies have requirements.	1.0
-automatic pilot	An automatic pilot is a device	1.0
-roseate tern	Roseate terns are terns.	1.0
-morse code	Morse code is communications systems.	1.0
-executive order	Executive order is books.	1.0
-acute ergotism	Acute ergotism produces alkaloids, which are toxic.	0.7151739001274109
-nasturtium	A nasturtium is a herb	1.0
-federal government	Federal government is government.	1.0
-tribe	Tribes have beliefs.	1.0
-chimpanzee female	Chimpanzee females tend to be sexually active only during their maximum swelling phase.	0.7001828551292419
-intercellular communication	Intercellular communication refers to the communication between cells.	0.7985738515853882
-apache tear	Apache tears are nodules of obsidian from New Mexico, and is sometimes faceted.	0.7740193605422974
-tapa	Tapas are bark.	1.0
-Congo peacock	Congo peacocks make their nests out of sticks in a tree.	0.7922319173812866
-infectious bronchitis	Infectious bronchitis is an acute respiratory infection caused by viruses and bacteria.	0.8115014433860779
-headpiece	Headpieces are helmets.	1.0
-upper forest	Upper forest is a tree where squirrels live.	0.77983158826828
-professional criminal	Professional criminals are criminals.	1.0
-multiple sclerosis	Multiple sclerosis leads to difficulty.	1.0
-land development	Land development has growth.	1.0
-salicylate sensitivity	Salicylate sensitivity is a food intolerance.	0.7585939764976501
-ciliary muscle	Ciliary muscles are muscles.	1.0
-antispasmodic	Antispasmodic is medicine	1.0
-miscreant	A miscreant is an offender	1.0
-nuclear export	Nuclear export is mediated by saturable receptors that shuttle between nucleus and cytoplasm.	0.7780327796936035
-celluloid	A celluloid is thermoplastic resin	1.0
-eft	An eft is a triton	1.0
-monoculture	Monoculture is the destruction of a diverse ecosystem and replacement with a single species system.	0.7033420205116272
-concentrated vapor	Concentrated vapors cause discomfort in the mucous membranes and the eyes.	0.7076273560523987
-sloop	A sloop is a sailing ship	1.0
-american politician	American politicians serve as governors.	1.0
-sticky blood	Sticky blood occurs when the red blood cells begin to group together in clusters.	0.8366352915763855
-shipping fever	Shipping fever is a common disease in cattle.	0.7141284346580505
-word square	A word square is a teaser	1.0
-mathematical operation	A mathematical operation is a calculation	1.0
-puppy love	Puppy love is love.	1.0
-nilgai	Nilgais have (part) plasma membranes.	1.0
-aromatic oil	Aromatic oils are the least viscous of the hydrocarbon oils.	0.745015025138855
-sickle erythrocyte	Sickle erythrocytes induce prostacyclin and thromboxane synthesis by isolated perfused rat lungs.	0.7581691145896912
-localisation	Localisation is a finding	1.0
-skin infection	Skin infection leads to critical problems.	1.0
-english professor	English professors are teachers.	1.0
-several tribe	Several tribes use saguaro harvest.	1.0
-many different material	Many different materials come into contact.	1.0
-prolong drought	Prolong drought cans have serious impact.	1.0
-beefsteak	Beefsteak is steak	1.0
-acute fatigue	Acute fatigue can be a protective body function, alerting a person to rest.	0.7118883728981018
-myriapod	A myriapod is an arthropod	1.0
-inchworm	Inchworms are a type of caterpillar, and the slow-worm is a legless lizard.	0.7514930963516235
-invert emulsifier	Invert emulsifiers allow water-based pesticides to mix with petroleum carrier.	0.7113978862762451
-optimism	Optimism is associated with mood, coping, and immune change in response to stress.	0.7453054785728455
-application server	Application servers are software.	1.0
-iteration	An iteration is repetition	1.0
-giant tortoise	Giant tortoises live for years.	1.0
-many small business	Many small business reaches levels.	1.0
-executive secretary	An executive secretary is a secretary	1.0
+front man	A front man is a slicker	1.0
+magnetic moment	A magnetic moment is torque	1.0
+soy protein diet	Soy protein diets lower cholesterol.	1.0
+c program	C programs are programs.	1.0
+combination chemotherapy	Combination chemotherapy is the use of more than one drug to combat cancer cell growth and division.	0.7625799775123596
+sand dune	A sand dune is a ridge	1.0
+feral cat	Feral cats are domestic cats living wild, and descendants thereof.	0.7710934281349182
+canned food	Canned food is located in cabinets.	1.0
+collimation	Collimation is adjustment.	1.0
+gulf air	Gulf air meets cold canadian air.	1.0
+exaltation	An exaltation is worship	1.0
+flame	Flames are located in chemistry labs.	1.0
+excessive sunlight	Excessive sunlight causes reaction.	1.0
+lipotropic agent	Lipotropic agents are compounds which promote the flow of fat and bile to and from the liver.	0.8641029000282288
+hauler	A hauler is a contractor	1.0
+unequal cytokinesis	Unequal cytokinesis leads to daughter cells of different sizes.	0.7399548292160034
+rolandic epilepsy	Rolandic epilepsy belongs to the most frequent forms of epilepsy in children.	0.7059493660926819
+cholera	Cholera is an epidemic disease characterized by watery diarrhea, vomiting, and sudden collapse.	0.7578364014625549
+even	Evens cause evens.	1.0
+dolphin skeleton	Dolphin skeletons have hind limbs.	1.0
+seminar	Seminars are educational events.	1.0
+christ	A christ is a helper	1.0
+chronic thyroiditis	Chronic thyroiditis is an autoimmune disease.	0.7958717942237854
+large artery	Large arteries have their own blood supply system, from which the plaque-feeding capillaries arise.	0.7908267974853516
+wind tunnel	Wind tunnels are structures.	1.0
+physiography	A physiography is an earth science	1.0
+millimeter	Millimeter isa unit.	1.0
+toastmaster	A toastmaster is a host	1.0
+transmigration	Transmigration is driven by chemoattractants, a process known as diapedesis.	0.7334806323051453
+carbonara	A carbonara is a pasta sauce	1.0
+ipsilateral fiber	Ipsilateral fibers allow each hemisphere to exert some control over the same side of the body.	0.7510972023010254
+associate protein	Associate proteins equal meat.	1.0
+firearm	Firearms are located in cabinets.	1.0
+invalidity	Invalidity is quality	1.0
+beech tree	Beech trees produce crops.	1.0
+card game	A card game is a game	1.0
+hyoscine	Hyoscine is used as a muscle relaxant and as a transdermal patch to treat motion sickness.	0.7457841634750366
+fatty food	Fatty foods contribute to arterial plaque.	0.8102123141288757
+interdisciplinary subject	Interdisciplinary subjects include physiology.	1.0
+m	M isa unit.	1.0
+certain requirement	Certain requirements include elevate nutrients.	1.0
+continuance	Continuance is an activity	1.0
+childbirth contraction	Childbirth contractions stop when the baby is out of the mother's body.	0.7785748243331909
+completion	A completion is play	1.0
+spider mite	Spider mites feed on crop weeds.	1.0
+business letter	Business letters are letters.	1.0
+propionic acid	Propionic acid is a fatty acid that exists naturally in everything from apples to wood pulp.	0.8516232371330261
+ethnic study	Ethnic studies are fields of study.	1.0
+church music	Church music is musical style	1.0
+wood thrush	A wood thrush is a thrush	1.0
+electrolyte	Electrolytes carry particles.	1.0
+adult child	Adult children eat much sugar.	1.0
+industriousness	Industriousness is a purpose	1.0
+meringue	Meringue isa decoration.	1.0
+alveolar consonant	An alveolar consonant is a consonant	1.0
+wedding band	Wedding bands are located in fingers.	1.0
+eolith	An eolith is a tool	1.0
+counteroffer	A counteroffer is an offer	1.0
+univalve	An univalve is a shellfish	1.0
+mesotrophic lake	Mesotrophic lakes are in between oligo and eutrophic lakes.	0.7636948823928833
+acid solution	Acid solutions have concentration.	1.0
+classic rock	Classic rocks are magazines.	1.0
+cellulose	Cellulose contains zero calories per gram.	0.8159114122390747
+egomania	An egomania is a mania	1.0
+carbonium ion	Carbonium ions are intermediates in certain types of organic reactions.	0.8494600057601929
+prevention	Prevention isa event.	1.0
+cucumber	Cucumbers have (part) peels.	1.0
+withe	Withes have (part) sections.	1.0
+church building	A church building is house of worship	1.0
+bad food	Bad food is located in planes.	1.0
+wheel chair	Wheel chairs are located in hospitals.	1.0
+sugar apple	A sugar apple is edible fruit	1.0
+liquid mixture	Liquid mixture contains substances.	1.0
+spunk	Spunk is courage	1.0
+single factor	Single factors explain observations.	1.0
+intaglio	An intaglio is a carving	1.0
+interest fact	Interest facts suggest possibility.	1.0
+pellicle	Pellicles are specialized and flexible membranes.	0.8579310774803162
+shortened telomere	Shortened telomeres appear to lead to cell senescence.	0.7856488823890686
+natural sugar	Natural sugar damages teeth.	1.0
+cholla	A cholla is a cactus	1.0
+coloured stool	Coloured stools occur in obstructive jaundice due to absence of bile pigments in the stool.	0.7583730220794678
+biological parent	Biological parents love children.	1.0
+apricot fruit	Apricot fruit contains carbohydrates.	1.0
+Apnea	Apnea is defined as the absence of breathing.	0.7800648212432861
+studio	Studios have (part) walls.	1.0
+topping	A topping is garnish	1.0
+best friend	Best friends have mothers.	1.0
+hungry flea	Hungry fleas transmit diseases.	1.0
+piton	A piton is a spike	1.0
+esophageal candidiasi	Esophageal candidiasis is a sign of severe immunodeficiency.	0.7622559070587158
+categorisation	Categorisation is a grouping	1.0
+allure	Allure is attraction	1.0
+maritime law	A maritime law is an international law	1.0
+cultural belief	Cultural beliefs influence behavior.	1.0
+bilateral contract	A bilateral contract is a contract	1.0
+differential equation	Differential equations are equations.	1.0
+pigmentary glaucoma	Pigmentary glaucoma is a secondary open-angle glaucoma.	0.7375156879425049
+perch bird	Perch birds have tendons.	1.0
+sentenced	Sentenceds are bands.	1.0

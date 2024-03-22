@@ -1,100 +1,100 @@
-kid	Kids explore designs.	1.0
-uterine development	Uterine development is initiated by estrogen and completed by progesterone.	0.7900402545928955
-phenol	Phenol is less acidic than the other molecule.	0.7184212803840637
-placental hormone	Placental hormones act on receptors.	1.0
-support team	Support teams offer solutions.	1.0
-anime	Animes are cartoons.	1.0
-reflectivity	Reflectivity is visible features.	1.0
-harmful ultraviolet radiation	Harmful ultraviolet radiation causes skin cancer.	1.0
-chartreuse	Chartreuse is beverages.	1.0
-exhibition	Exhibitions reveal interest.	1.0
-physical hunger	Physical hunger is a physiological process that occurs every three to four hours.	0.7868272662162781
-mangrove community	Mangrove communities consist of mangroves.	1.0
-mental institution	A mental institution is a hospital	1.0
-domestic abuse	Domestic abuse is the use of violence or threats to control another person's behavior.	0.7397369146347046
-smock	A smock is a coverall	1.0
-death row	A death row is a ward	1.0
-domination	Domination is social control.	1.0
-canine distemper	Canine distemper is distemper	1.0
-cute animal	Cute animals have size.	1.0
-support worker	Support workers identify problems.	1.0
-knock	A knock is sound	1.0
-double check	A double check is a check	1.0
-betel	A betel is a pepper vine	1.0
-old mom	Old moms work jobs.	1.0
-tarweed	A tarweed is a herb	1.0
-bread knife	Bread knifes are knifes.	1.0
-goonie	A goonie is an oceanic bird	1.0
-go-kart	Go-karts have (part) ceilings.	1.0
-sunscreen	Sunscreens have (part) sections.	1.0
-photosynthetic form	Photosynthetic forms have a distinct cell wall.	0.700803816318512
-impaired digestion	Impaired digestion is due to the loss of peptic activity.	0.7870454788208008
-poodle breeder	Poodle breeders have goals.	1.0
-parcel bomb	A parcel bomb is a bomb	1.0
-global wind	Global winds are winds that form all over the globe.	0.7446134686470032
-male crab	Male crabs have claws.	1.0
-large paper mill	Large paper mills produce products.	1.0
-scarlet oak	Scarlet oak is oak	1.0
-visual discrimination	Visual discrimination is the ability to distinguish one object from another.	0.7096898555755615
-banana slug	Banana slugs are hermaphroditic, possessing both male and female genitalia.	0.8293827176094055
-ferromagnetic material	Ferromagnetic materials are natural producers of magnetic fields like iron, cobalt, and nickel.	0.7765738368034363
-blond	Blond is people.	1.0
-pigment	Pigment is used by artists.	1.0
-pelagic shark	Pelagic sharks are shortfin makos and whale sharks.	0.765961229801178
-university extension office	University extension offices provide services.	1.0
-newscast	Newscasts are news.	1.0
-vavilovian mimicry	Vavilovian mimicry is caused by unintentional selection by humans.	0.7424062490463257
-queen triggerfish	Queen triggerfish have distinctive patterns.	1.0
-marine collagen	Marine collagen is derived from fish.	0.8004148602485657
-baby snake	Baby snakes feed on small reptiles and rodents.	0.7655397057533264
-cedar chest	A cedar chest is a chest	1.0
-pretension	Pretension is quality	1.0
-iron overload	An iron overload is pathology	1.0
-higher education	Higher education is education.	1.0
-marzipan	Marzipan isa candy.	1.0
-rat urine	Rat urine contains substances.	1.0
-physical structure	A physical structure is a natural object	1.0
-large container	Large containers are located in juice.	1.0
-kookaburra	A kookaburra is a kingfisher	1.0
-menstrual phase	A menstrual phase is a stage	1.0
-silver salmon	Silver salmon are salmon.	1.0
-blip	Blips are shocks.	1.0
-blue alga	Blue algas contain other photosynthetic pigment.	1.0
-sclera	A sclera is animal tissue	1.0
-better decision	Better decisions lead to solutions.	1.0
-chemical dependency	Chemical dependency is a primary, chronic, progressive and fatal disease.	0.7502545118331909
-immediacy	Immediacies are celerity.	1.0
-cortisone property	Cortisone properties affect hypothalamus and pituitary glands.	0.7436047792434692
-positive result	Positive results drive solid growth.	1.0
-highway runoff	Highway runoff contains compounds.	1.0
-musical genre	A musical genre is style	1.0
-burl	A burl is an enation	1.0
-caudal fin	Caudal fins are fins.	1.0
-local producer	Local producers make food.	1.0
-corvette	A corvette is a ship	1.0
-committee	Committees find facts.	1.0
-hungry people	Hungry people are located in supermarkets.	1.0
-horse owner	Horse owners need presentation.	1.0
-senate	A senate is a legislature	1.0
-kiwi	Kiwi has beaks.	1.0
-bearberry	A bearberry is a holly	1.0
-total concentration	Total concentration exceeds limits.	1.0
-old mom	Old moms work jobs.	1.0
-street address	A street address is an address	1.0
-aerosol particle	Aerosol particles reflect sunlight.	1.0
-tachometer	Tachometers have (part) sections.	1.0
-visit foreign country	Visit foreign countries create opportunity.	1.0
-chiton	Chitons live among the rocks on the seashore and are active at night.	0.7405306100845337
-mexican beetle	Mexican beetles resemble beneficial ladybugs.	1.0
-muddle	Muddle isa condition.	1.0
-back pack	A back pack is a bag	1.0
-dogleg	Doglegs are angles.	1.0
-coagulative necrosis	Coagulative necrosis occurs primarily in tissues such as the kidney, heart and adrenal glands.	0.7751376032829285
-grandee	A grandee is a Lord	1.0
-strychnine poisoning	Strychnine poisoning is characterized by violent convulsions.	0.7598501443862915
-temporary shelter	Temporary shelter provides shades.	1.0
-scatter factor	Scatter factor protects epithelial and cancer cells against apoptosis.	0.7680773735046387
-healing	A healing is an activity	1.0
-blogger	Bloggers are blogs.	1.0
-lancer	A lancer is a soldier	1.0
-fire watcher	A fire watcher is a watchman	1.0
+bilirubin	A bilirubin is pigment	1.0
+pomegranate	Pomegranates are also long-lived.	0.7245041728019714
+thermal printer	Thermal printers are printers.	1.0
+basic dye	Basic dyes tend to be soluble in some oils, greases, waxes and solvents.	0.7732845544815063
+electric vehicle	Electric vehicles have advantage.	1.0
+planted	Planteds are actions.	1.0
+tea plant	Tea plants thrive in subtropical regions.	1.0
+inefficiency	An inefficiency is knowledge	1.0
+burial site	Burial sites have cultural values.	1.0
+lead story	A lead story is a newspaper article	1.0
+african woman	African women understand facts.	1.0
+doubled haploid	Doubled haploids are plants generated directly from pollen or egg cells using plant tissue culture.	0.8066626787185669
+airbus	An airbus is an airliner	1.0
+internal medicine	Internal medicine includes the diagnosis and treatment of diseases as they affect animals.	0.7335759401321411
+orthophosphate	Orthophosphates are condensed and organically bound.	0.8388789296150208
+sheep fescue	A sheep fescue is grass	1.0
+haoma	A haoma is a vine	1.0
+acridine orange	Acridine orange is hydrophobic in neutral pH, but is protonated in acidic conditions.	0.7741674780845642
+modeller	A modeller is a creator	1.0
+big sagebrush	Big sagebrushs are sagebrushs.	1.0
+kiwi chick	Kiwi chicks survive to adulthood.	1.0
+couple	Couples are located in theatres.	1.0
+vestry	Vestries are committees.	1.0
+republicanism	A republicanism is ideology	1.0
+automobile insurance	Automobile insurance is insurance.	1.0
+vernacular	Vernacular is a speech	1.0
+sac spider	Sac spiders are free-dwelling, aggressive hunters.	0.7923121452331543
+slight halophile	Slight halophiles live in mud on the ocean floor, in seawater, and in garden soil.	0.752559244632721
+polyoma virus	A polyoma virus is an animal virus	1.0
+certify coach	Certify coaches make differences.	1.0
+mythical monster	A mythical monster is a mythical being	1.0
+pharyngeal gill	Pharyngeal gill slits present at some stage in life cycle.	0.8014439344406128
+agora	Agoras are marketplaces.	1.0
+zooplankton biomass	Zooplankton biomass enhances growth.	1.0
+dispassion	A dispassion is a trait	1.0
+chemical digestion	Chemical digestion is carried out by secretions from the liver and pancreas.	0.8361897468566895
+graduate student	Graduate students are university students.	1.0
+good night	A good night is a farewell	1.0
+tree care information	Tree care information is provided by other industry organizations.	1.0
+medical attention	Medical attention helps symptoms.	1.0
+bad karma	Bad karmas are located in conferences.	1.0
+scientific instrument	A scientific instrument is an instrument	1.0
+alcoholism	Alcoholism is a mania	1.0
+fibroblast cell	Fibroblast cells produce proteins such as collagens and fibronectin, which make the matrix.	0.827951192855835
+new window	New windows provide information.	1.0
+trail head	A trail head is a source	1.0
+zoonotic infection	Zoonotic infections are infections that occur in pets and can be transmitted to people.	0.7957132458686829
+oxygenated fuel	Oxygenated fuel is gasoline that is blended with additives that contain oxygen.	0.812323808670044
+pathogenic organism	Pathogenic organisms are typically much smaller than their host and have a much shorter life cycle.	0.750465452671051
+ice skate	Ice skates have sharp edges, and thus a small area in contact with the ice.	0.7058427333831787
+ticket stub	Ticket stubs are located in movies.	1.0
+electrolytic reduction	Electrolytic reduction is the process used to extract the above metals.	0.7230958342552185
+counterpoint	A counterpoint is music	1.0
+ethical code	Ethical code is a system	1.0
+heart problem	Heart problems are exacerbated by pregnancy.	1.0
+physical exertion	Physical exertion has effects.	1.0
+mucivorous bird	Mucivorous birds feed on the mucus of plants and trees, namely sap.	0.8445266485214233
+strong muscle	Strong muscles help support and protect joints that are weakened and damaged from arthritis.	0.7500455975532532
+corn sugar	Corn sugar is glucose.	1.0
+dialog box	Dialog boxs are boxs.	1.0
+freak	A freak is a mutant	1.0
+scotch tape	Scotch tape is located in desks.	1.0
+wonderer	A wonderer is a person	1.0
+manuka honey	Manuka honey is produced in New Zealand by bees that pollinate the native manuka bush.	0.7769325971603394
+american crocodile	American crocodiles rely on mangrove habitats.	1.0
+tall stalk	Tall stalks produce flowers.	1.0
+chytrid zoospore	Chytrid zoospores are unique as they are the only ones that have a whip-like flagellum.	0.8119951486587524
+pharyngitis	Pharyngitis is an inflammatory disease	1.0
+serialisation	A serialisation is a publishing	1.0
+alleyway	An alleyway is a street	1.0
+rest house	A rest house is a building	1.0
+base runner	A base runner is a ballplayer	1.0
+molecular layer	Molecular layers can act as lubricants.	0.70928555727005
+escherichia	Escherichia are common bacteria that colonize the human large intestine.	0.808169424533844
+internet broadcast	Internet broadcasts are mass communication.	1.0
+male gametophyte	Male gametophytes are large, multiflagellate and motile.	0.704822301864624
+hydroponics system	Hydroponics systems grow plants in nutrient-enriched water instead of soil.	0.716265082359314
+solar salt	Solar salt is produced by the evaporation of sea water or natural brines.	0.8116103410720825
+hive bee	Hive bees suck nectar.	1.0
+bootie	Bootie is a slipper	1.0
+wooden door	Wooden doors have hollow core construction.	1.0
+gin	Gin is used for drinking.	1.0
+gill passage	Gill passages appear, as in birds and mammals, only in the embryo.	0.7340617179870605
+ideology	Ideology is part of organizations.	1.0
+selective breeding	Selective breeding is the method of breeding certain organisms together that have desirable traits.	0.7540294528007507
+fundamentalism	A fundamentalism is religion	1.0
+highschool	A highschool is a secondary school	1.0
+facial display	Facial displays indicate emotion, pain, brain function and pathology, and regulate social behavior.	0.7362831830978394
+hyperpigmentation	Hyperpigmentation is the excessive production of melanin.	0.8242565989494324
+prejudice	Prejudice is partisanship	1.0
+favoritism	Favoritism is a tendency	1.0
+particle deposition	Particle deposition is the spontaneous attachment of particles to surfaces.	0.7899977564811707
+designer drug	A designer drug is a psychoactive drug	1.0
+tough guy	A tough guy is a rowdy	1.0
+clericalism	A clericalism is policy	1.0
+sound speaker	Sound speakers will have power.	1.0
+weekday	A weekday is a period	1.0
+arnica	Arnicas are tincture.	1.0
+pulped wood	Pulped wood is used to make paper.	0.7519449591636658
+Endothelium	Endothelium provides a smooth lining to facilitate flow and prevent clotting.	0.7005403637886047

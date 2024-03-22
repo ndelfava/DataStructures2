@@ -1,10 +1,10 @@
-piperine	Piperines are alkaloids.	1.0
-constancy	Constancy is perceptions.	1.0
-confit	A confit is cut of meat	1.0
-symptom	Symptoms include waste.	1.0
-yuan	A yuan is an unit	1.0
-total solar eclipse	Total solar eclipse depends on several factors.	1.0
-idleness	Idleness is inactivity.	1.0
-barbary sheep	Barbary sheep live in arid environments and acquire much of their water from the plants they eat.	0.7373987436294556
-centennial	A centennial is an anniversary	1.0
-grantor	A grantor is a person	1.0
+cay	A cay is a coral reef	1.0
+chess player	Chess players represent nations.	1.0
+current research interest	Current research interest includes investigations.	1.0
+federal deficit	A federal deficit is a budget deficit	1.0
+souchong	A souchong is black tea	1.0
+hyacinth bulb	Hyacinth bulbs are planted in the fall and borne in spring.	0.7223637700080872
+polar atmosphere	Polar atmospheres contain gases.	1.0
+massive tsunami	Massive tsunamis hit shorelines.	1.0
+newborn pup	Newborn pups weigh about pounds.	1.0
+rosy boa	Rosy boas have particular requirements.	1.0

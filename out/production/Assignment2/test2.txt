@@ -1,5 +1,5 @@
-brisket	Brisket is cut of meat	1.0
-mathematical method	Mathematical methods apply to practical problems.	1.0
-grand total	Grand totals are sums.	1.0
-vibration	Vibration is caused by muscular actions.	1.0
-orogenic belt	Orogenic belts can form during the assembly of continents and supercontinents.	0.7380298972129822
+calcium lactate	Calcium lactate is merely the salt formed when calcium is combined with lactic acid.	0.8243924379348755
+Thermography	Thermography is thermo photography of infrared light using different temperatures of skin.	0.7373061776161194
+egyptian vulture	Egyptian vultures have large ranges.	1.0
+car battery	Car batteries are part of electrical systems.	1.0
+cislunar space	Cislunar space is the area between the Earth and the moon.	0.7398099899291992

@@ -1,0 +1,10 @@
+gear
+exclude
+magnetic
+young
+roll
+fraction
+formula
+talented
+vacuum
+expansion

@@ -1,50 +1,50 @@
-natural predation	Natural predation plays minor roles.	1.0
-auto maker	An auto maker is a manufacturer	1.0
-idol worship	Idol worship is worship	1.0
-precious metal	Precious metal is a valuable	1.0
-waste material	A waste material is a material	1.0
-microscopic organism	Microscopic organisms live in every part of the biosphere .	0.7726303935050964
-different nutrient	Different nutrients affect digestion, the nervous system, thinking, and other body processes.	0.7538117170333862
-nonconservative nutrient	Nonconservative nutrients are nutrients that change in concentration with biological activity.	0.8124591112136841
-current temperature map	Current temperature maps show color.	1.0
-healthy cell	Healthy cells have 'self-antigens' on the surface of their membranes.	0.7818825244903564
-charnel house	A charnel house is a vault	1.0
-demulcent	A demulcent is medicine	1.0
-ell	An ell is a wing	1.0
-scheduler	A scheduler is computer hardware	1.0
-passive immunity	Passive immunity is acquired by receiving antibodies from someone.	0.731285035610199
-sacrococcygeal tumor	Sacrococcygeal tumors can also present as bowel and bladder dysfunction.	0.7113942503929138
-dill plant	Dill plants grow in locations.	1.0
-haemoglobin	Haemoglobin transports oxygen from the lungs to the tissues.	0.8634897470474243
-somatostatin peptide	Somatostatin peptides inhibit basolateral potassium channels in human colonic crypts.	0.7895820140838623
-coal miner	Coal miners are miners.	1.0
-asexual method	Asexual methods include fission.	1.0
-cost accountant	A cost accountant is a controller	1.0
-breast shape	Breast shape is determined by breast volume and surface area of the skin envelope.	0.7221591472625732
-legion	Legion is military units.	1.0
-peripheral muscle	Peripheral muscles occur in antagonistic pairs.	0.7261155247688293
-sneaker	Sneakers are athletic shoes.	1.0
-violet	Violet has fleshy leaves.	1.0
-curry	Curries are indian dishs.	1.0
-guitarist	Guitarists are musicians.	1.0
-early bird	Early birds are risers.	1.0
-nonpolar solvent	Nonpolar solvents dissolve nonpolar solutes.	0.7829110026359558
-ology	An ology is a field	1.0
-tachycardia	Tachycardias are cardiac arrhythmia.	1.0
-madagascan roach	Madagascan roaches are nocturnal, meaning they are most active at night.	0.7627501487731934
-electric force	Electric forces are produced by electric charges either at rest or in motion.	0.7284032106399536
-dark ray	Dark rays form when clouds cast their shadows on the surrounding air.	0.7204928994178772
-premature fruit	Premature fruit has skin.	1.0
-filly	A filly is a female	1.0
-cretin	Cretins have (part) personality.	1.0
-soft water	Soft water is water.	1.0
-stalk	Stalks absorb water.	1.0
-delight	Delight is pleasure.	1.0
-orange juice	Orange juice is a drink	1.0
-patty	Patties are pie.	1.0
-cheese whey	Cheese whey is produced during the separation of casein and whey as the curd for cheese is produced.	0.7176533937454224
-red cedar	Red cedars grow in moist habitats.	0.772685706615448
-state prison	A state prison is a prison	1.0
-wound	Wounds is located in arms.	1.0
-defect	A defect is a state	1.0
-motor sport	Motor sports are sports.	1.0
+rocketry	Rocketry is technology	1.0
+dipteran	Dipterans are endopterygotes , insects that undergo radical metamorphosis.	0.8527884483337402
+smart guy	Smart guys have technical advantage.	1.0
+mother of pearl	Mothers of pearl is precious stones.	1.0
+centerpiece	Centerpieces are decoration.	1.0
+hooray	Hooray isa cheer.	1.0
+lace coral	Lace corals produce a delicate branching structure that is also made up of aragonite.	0.7403549551963806
+current hypothesis	Current hypotheses suggest short term benefits.	1.0
+many example	Many examples support principles.	1.0
+premolar tooth	Premolar teeth have sharp edges used for shearing.	0.7712201476097107
+rape	Rape is the crime of forcing sexual intercourse with someone without that person's consent.	0.7207526564598083
+play card	Play cards are motivated by the goal of fun.	1.0
+small goby	Small gobies have red heads.	1.0
+lumen	Lumens are cavities.	1.0
+cane toad tadpole	Cane toad tadpoles have bellies.	1.0
+hot cap	Hot caps increase the temperature of the soil and the air.	0.7213321328163147
+accolade	Accolade is companies.	1.0
+carabid beetle	A carabid beetle is a beetle	1.0
+thermal disinfection	Thermal disinfection involves heating the soft lens in normal saline.	0.7340176105499268
+totalism	A totalism is ideology	1.0
+lapdog	A lapdog is a dog	1.0
+gaucho	A gaucho is a cowboy	1.0
+rubber cement	Rubber cement is adhesive	1.0
+field	Fields undergo transitions.	1.0
+absorptance	Absorptance is a coefficient	1.0
+volcanic particle	Volcanic particles reflect sunlight.	1.0
+viruliferous aphid	Viruliferous aphids are capable of infecting a plant after feeding for less than one minute.	0.8059799075126648
+chromosomal abnormality	Chromosomal abnormalities affect development.	1.0
+photo cell	Photo cells contain a silicon chip that converts radiant energy into electrical current.	0.7022536396980286
+morning cloud	Morning clouds are bright patches of surface fog or frosty ground.	0.7399983406066895
+air duct	An air duct is a duct	1.0
+islet	Islets are islands.	1.0
+large library	Large libraries are located in universities.	1.0
+gloomy scale	Gloomy scales are armored scales.	0.8256779313087463
+continuous corn	Continuous corn uses fertilizer.	1.0
+same area	Same areas provide comfort.	1.0
+take	Take is filming.	1.0
+many more manufacturer	Many more manufacturers offer products.	1.0
+kissing bug	A kissing bug is an insect	1.0
+labor force	Labor force is the sum of the number of employed and unemployed persons.	0.7089812159538269
+chalazion	Chalazion is a small bump that develops on the upper or lower eyelid.	0.735900342464447
+practitioner	A practitioner is a professional	1.0
+private company	Private companies offer services.	1.0
+schooling	Schoolings are training.	1.0
+pale foliage	Pale foliage turns bronze color.	1.0
+health insurance	Health insurance is insurance	1.0
+illustration	An illustration is art	1.0
+tuft deer	Tuft deer have tails.	1.0
+fire hydrant	Fire hydrants are located in street corners.	1.0
+okapi calf	Okapi calves weigh about lbs.	1.0

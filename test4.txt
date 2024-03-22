@@ -1,50 +1,50 @@
-new federal regulation	New federal regulations require use.	1.0
-retinal dysplasia	Retinal dysplasia is a type of retinal malformation.	0.8144340515136719
-field staff	Field staff use methods.	1.0
-french restaurant	French restaurants are located in wine.	1.0
-enterprise zone	An enterprise zone is a city district	1.0
-lymphatic system	A lymphatic system is a system	1.0
-female midge	Female midges bite to get blood so that they can lay eggs.	0.7560558915138245
-greek letter	Greek letters are located in fraternity houses.	1.0
-rock garden	A rock garden is a garden	1.0
-shooting range	A shooting range is a practice range	1.0
-dominatrix	A dominatrix is a woman	1.0
-juvenile turtle	Juvenile turtles have black carapaces.	1.0
-submucosa	A submucosa is connective tissue	1.0
-common guava	Common guavas have fruit.	1.0
-cognition	Cognition is the process of knowing.	0.7513450980186462
-effector caspase	Effector caspases are the enzymes responsible for disassembling the cells.	0.8437619805335999
-star tortoise	Star tortoises have backgrounds.	1.0
-ocular motility	Ocular motility means loss of vision efficiency in either eye, due to double or binocular vision.	0.8027663230895996
-membrane receptor	Membrane receptors are extrinsic or associated with the surface of the bilayer.	0.841442346572876
-physical entity	A physical entity is an entity	1.0
-oestrone	Oestrone is embryolethal for preimplantation embryos in some species.	0.7376158833503723
-congenital rubella	Congenital rubella is a viral illness.	0.7433786988258362
-rich merchant	Rich merchants have wives.	1.0
-sound choice	Sound choices help life.	1.0
-Malta	Malta isa thing.	1.0
-swizzle stick	A swizzle stick is a stick	1.0
-acrocentric chromosome	Acrocentric chromosomes have the centromere located very near to one end.	0.7954819202423096
-reeve	Reeves are ruff.	1.0
-hematologic cancer	Hematologic cancers are cancers of the blood or bone marrow, including leukemia and lymphoma.	0.8492123484611511
-male guinea pig	Male guinea pigs reach maturity.	1.0
-habitat depletion	Habitat depletion is the destruction or reduction of a habitat.	0.7151938080787659
-simile	Similes are figures of speech.	1.0
-viable neutrophil	Viable neutrophils release mitochondrial DNA to form neutrophil extracellular traps.	0.769853949546814
-ape	Apes have teeth.	1.0
-age pigment	Age pigment is found in the organ of Corti even in animals deaf from birth.	0.7859699130058289
-excess protein	Excess protein is used as energy and can be stored as body fat.	0.7291322350502014
-home	Homes are used for sleep.	1.0
-alveolar macrophage	Alveolar macrophages inhibit retroviral-mediated gene transfer to airway epithelia.	0.8003028631210327
-procaryote	Procaryotes have structurally different ribosomal subunits than eucaryotes.	0.7940612435340881
-military intelligence	Military intelligence is intelligence.	1.0
-little owl	A little owl is an owl	1.0
-mango peel	Mango peels contain pigment.	1.0
-sociopath	Sociopaths are neurotics.	1.0
-spongy root	Spongy roots absorb water.	1.0
-bactrian camel	Bactrian camels are mammals.	1.0
-touch	Touch is contact.	1.0
-romanticism	Romanticism is idealism.	1.0
-flow	Flow causes runs.	1.0
-ski wax	Ski wax is wax	1.0
-experience trainer	Experience trainers lead students.	1.0
+pistia	A pistia is a hydrophytic plant	1.0
+uterine growth	Uterine growth includes muscular hypertrophy and an extensive increase in connective tissue.	0.7536841630935669
+fish fry	A fish fry is a cookout	1.0
+hypnophobia	A hypnophobia is simple phobia	1.0
+sherbet	A sherbet is frozen dessert	1.0
+mop handle	Mop handles are part of mops.	1.0
+halitosis	Halitosis is caused by sulfur compounds in the mouth.	0.8485009670257568
+finger nail	Finger nails grow from the root of the nail just behind the nail under the skin.	0.7881700992584229
+specie	Species are a group of organisms which can interbreed and produce fertile offspring.	0.7491151690483093
+ringtail possum	Ringtail possums build nests from tree branches and occasionally use tree hollows.	0.7814830541610718
+lob	A lob is a return	1.0
+conspicuous flower	Conspicuous flowers attract insects.	1.0
+blindness	Blindness results because of damage to the retina.	0.7031326293945312
+medical review officer	Medical review officers have direct evidence.	1.0
+gym	Gyms have (part) floors.	1.0
+jukebox	Jukeboxs are located in cafes.	1.0
+drink alcohol	Drink alcohol increases effects.	1.0
+first period	A first period is a part	1.0
+residence time	Residence time is durations.	1.0
+daisy chain	Daisy chain is a floral arrangement	1.0
+mindset	A mindset is attitude	1.0
+methyl bromide	A methyl bromide is a bromide	1.0
+antimyocardial antibody	Antimyocardial antibodies attack a person's heart muscle, or myocardium.	0.8180721998214722
+patent	Patents cover methods.	1.0
+bud tree	Bud trees produce fruit.	1.0
+tide	Tides are the slow, periodic vertical rise and fall of the sea surface.	0.7867239713668823
+federal department	A federal department is a government department	1.0
+intense storm	Intense storms are caused by activities.	1.0
+new technique	New techniques are developed by princeton university engineers.	1.0
+undigested material	Undigested material is formed into a solid mass in the colon by reabsorption of water into the body.	0.7548053860664368
+flaxseed	Flaxseed contains high levels of phytoestrogens.	0.7444954514503479
+pure tin	Pure tin is a metal of attractive silvery appearance, rather soft compared with many other metals.	0.755067765712738
+asparagus fern	Asparagus ferns require sunlight.	1.0
+grizzle	A grizzle is a wig	1.0
+ricotta	Ricottas are cheese.	1.0
+female swimmer	Female swimmers have skeletal ages.	1.0
+vaginal tissue	Vaginal tissue is known to be some of the most highly absorptive tissue in the human body.	0.7608599662780762
+plant succession	Plant succession begins when lichens and mosses grow on rock and soil.	0.8324527740478516
+melt	A melt is physical change	1.0
+fielder	Fielders are ballplayers.	1.0
+autoregulation	Autoregulation is a biological process	1.0
+queer	A queer is a homosexual	1.0
+art director	Art directors collaborate with directors.	1.0
+traditional technique	Traditional techniques provide only temporary relief.	1.0
+Discoid lupus	Discoid lupus is a disease of the skin, which is often chronic and leads to scarring.	0.7856802344322205
+parrot fish	Parrot fish feature large heads, short necks and strong fins.	0.8117843866348267
+white tail	White tails hold backs.	1.0
+lister	A lister is an assessor	1.0
+plant nematode	Plant nematodes feed on plants.	1.0
+allelic variability	Allelic variability distinguishes the uniqueness of all organisms genomes.	0.747840404510498

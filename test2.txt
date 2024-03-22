@@ -1,5 +1,5 @@
-tire chain	Tire chain is chain	1.0
-quarantine	A quarantine is separation	1.0
-female canvasback	Female canvasbacks have heads.	1.0
-swallowtail	Swallowtail refers to the posterior extensions on the hind wings of some species.	0.7112086415290833
-eversion	Eversion is the movement of turning the sole of the foot outward, away from the midline.	0.7650748491287231
+lather	A lather is foam	1.0
+tramontane	A tramontane is wind	1.0
+government organization	Government organizations open offices.	1.0
+electricity	Electricity flows through wire.	1.0
+peripheral fibre	Peripheral fibres transmit the impulses afferently to cell bodies in the dorsal root ganglia.	0.7580426931381226

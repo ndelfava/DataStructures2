@@ -1,10 +1,10 @@
-bowtie	A bowtie is a tie	1.0
-grow turnip	Grow turnips thrive in temperature.	1.0
-leghorn	A leghorn is a hat	1.0
-aqueduct	Aqueducts are conduits.	1.0
-stork	Storks have (part) cells.	1.0
-letup	Letup isa pause.	1.0
-dot	Dots are specks.	1.0
-beroe	A beroe is comb jelly	1.0
-preliminary experiment	Preliminary experiments consist of trials.	1.0
-nonreligious person	A nonreligious person is a person	1.0
+apoptotic pathway	Apoptotic pathways are inhibited by leptin receptor activation in neutrophils.	0.7840439677238464
+vulnerable individual	Vulnerable individuals have allies.	1.0
+channel bass	Channel bass feed on crustaceans, fish, and mollusks.	0.7637848258018494
+obliqueness	An obliqueness is a property	1.0
+serious disorder	Serious disorder impairs kidney functions.	1.0
+somnambulism	A somnambulism is a walk	1.0
+woody plant	Woody plants are vascular plants.	1.0
+iron alloy	Iron alloy contains chromium.	1.0
+continuance	Continuance is an activity	1.0
+rice field	Rice fields provide benefits.	1.0

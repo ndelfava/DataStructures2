@@ -1,1 +1,1 @@
-enzyme production	Enzyme production is governed by a cell's genes.	0.8125889301300049
+hair	Hair is used for fur.	1.0
